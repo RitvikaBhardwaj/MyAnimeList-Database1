@@ -1,4 +1,4 @@
-# MyAnimeList Database 2020
+# MyAnimeList Database 
 
 This dataset contains information about 17.562 anime and the preference from 325.772 different users. In particular, this dataset contain:
 
@@ -9,7 +9,7 @@ This dataset contains information about 17.562 anime and the preference from 325
 
 Also, the dataset is available at kaggle: https://www.kaggle.com/hernan4444/anime-recommendation-database-2020
 
-### Warning: this dataset includes information about anime for adults (hentai). 
+### Warning: this dataset may also includein formation about anime for adults. Please view at your own risk. This the work of countless humans earning bread and butter. 
 
 
 ## Content
