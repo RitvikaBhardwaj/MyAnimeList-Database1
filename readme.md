@@ -9,7 +9,8 @@ This dataset contains information about 17 anime and the preference from 325.78 
 
 Also, the dataset is available at kaggle: https://www.kaggle.com/hernan4444/anime-recommendation-database-2020
 
-### Warning: this dataset may also includein formation about anime for adults. Please view at your own risk. This the work of countless humans earning bread and butter. 
+### Deep Warning: this dataset may also include information about anime for adults. Please view at your own risk. 
+This is the work of countless humans earning their respective bread and butter. 
 
 
 ## Content
