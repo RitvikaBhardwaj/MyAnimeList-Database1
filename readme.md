@@ -1,6 +1,6 @@
 # MyAnimeList Database 
 
-This dataset contains information about 17.562 anime and the preference from 325.772 different users. In particular, this dataset contain:
+This dataset contains information about 17 anime and the preference from 325.78 different users. In particular, this dataset contain:
 
 - The anime list per user. Include dropped, complete, plan to watch, currently watching and on hold.
 - Ratings given by users to the animes that they has watched completely.
